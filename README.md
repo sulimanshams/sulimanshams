@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sulimanshams/sulimanshams/main/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sulimanshams/sulimanshams/main/light.svg"
+  />
+  <img
+    alt="Suliman Shams — Frontend Developer"
+    src="https://raw.githubusercontent.com/sulimanshams/sulimanshams/main/light.svg"
+  />
+</picture>
+
 # 💫 About Me:
 Hi there! I'm **Suliman Shams**, a passionate **Front-End Developer** focused on building clean, responsive, and user-friendly web interfaces.  
 I love working with **React.js** and creating modern web apps that deliver great user experiences.
