@@ -13,44 +13,118 @@
   />
 </picture>
 
-# 💫 About Me:
-Hi there! I'm **Suliman Shams**, a passionate **Front-End Developer** focused on building clean, responsive, and user-friendly web interfaces.  
-I love working with **React.js** and creating modern web apps that deliver great user experiences.
+<p align="center">
+  <strong style="font-size:20px">Suliman Shams</strong><br/>
+  <em>Frontend Developer — React, TypeScript, Next.js</em>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sulimanshams191)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulimanshams)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sulimanshamsn191@gmail.com)
+<!-- ABOUT -->
+<table width="100%" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>About</strong>
+
+      <p style="max-width:760px;margin:6px auto 0 auto;">
+        I build production-grade frontends with a strong focus on component-driven design, responsive UIs, and robust API integrations.
+        I have professional experience delivering admin dashboards and tooling for platforms such as Edulin and WasteSwift.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next_JS-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
+<!-- TWO-COLUMN: WHAT I DO / TECH -->
+<table width="100%" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <strong>What I Do</strong>
+      <ul>
+        <li>Build component-first frontends with React & TypeScript</li>
+        <li>Design responsive, accessible UIs (Tailwind CSS, Material UI)</li>
+        <li>Integrate RESTful APIs and manage client-side data flows</li>
+        <li>Develop reusable component libraries and role-based dashboards</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <strong>Tech Stack</strong>
+      <p>
+        <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+      <p style="margin:6px 0 0 0; font-size:13px; color: #9fdff3;">
+        Also: Tailwind CSS • Node.js • Vite • Material UI • Git
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulimanshams&theme=dark&hide_border=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanshams&theme=dark&hide_border=false&layout=compact)
+<!-- FEATURED PROJECTS -->
+<table width="100%" cellpadding="8" cellspacing="0">
+  <tr>
+    <td colspan="2" align="center"><strong>Featured Projects</strong></td>
+  </tr>
+  <tr>
+    <td width="50" valign="top">
+      <strong>Edulin</strong>
+      <p style="margin:6px 0 6px 0;">
+        Online school management platform. I developed three admin dashboards focused on role-based experiences and reporting.
+      </p>
+      <ul>
+        <li>Three admin dashboards with RBAC (role-based UX)</li>
+        <li>REST API integration for reporting and management</li>
+        <li>Reusable React components and responsive layouts</li>
+      </ul>
+      <p style="font-size:13px;color:#9fdff3;"><strong>Focus:</strong> React • TypeScript • REST APIs • Reusable components</p>
+    </td>
+    <td valign="top">
+      <strong>WasteSwift</strong>
+      <p style="margin:6px 0 6px 0;">
+        Waste management platform connecting households and collection companies. I developed the Admin Dashboard and operational interfaces.
+      </p>
+      <ul>
+        <li>Admin UI for user & request management</li>
+        <li>Operational dashboards, filters, and lists</li>
+        <li>API integrations and responsive interfaces</li>
+      </ul>
+      <p style="font-size:13px;color:#9fdff3;"><strong>Focus:</strong> React • REST APIs • Responsive dashboards</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sulimanshams&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- STATS: two-column row for stats and languages; streak below full-width -->
+<table width="100%" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <strong>GitHub Stats</strong><br/>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sulimanshams&theme=dark&hide_border=false&include_all_commits=true" width="360" style="max-width:100%;height:auto;" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Top Languages</strong><br/>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanshams&theme=dark&hide_border=false&layout=compact" width="360" style="max-width:100%;height:auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top:10px;">
+      <strong>Contribution Streak</strong><br/>
+      <img alt="Contribution Streak" src="https://streak-stats.demolab.com/?user=sulimanshams&theme=dark&hide_border=true" width="720" style="max-width:100%;height:auto;" />
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with ❤️ by Suliman Shams -->
+---
+
+<!-- CONTACT -->
+<p align="center">
+  <strong>Contact</strong><br/>
+  <a href="https://www.linkedin.com/in/sulimanshams" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.instagram.com/sulimanshams191" target="_blank">Instagram</a> &nbsp;•&nbsp;
+  <a href="mailto:sulimanshamsn191@gmail.com">Email</a>
+</p>
