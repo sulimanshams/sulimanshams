@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="titleDescLight">
+  <title id="titleDescLight">Suliman Shams — Frontend Developer (light)</title>
+  <defs>
+    <!-- Light background gradient -->
+    <linearGradient id="bgGradLight" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f7fbff">
+        <animate attributeName="stop-color" dur="8s" values="#f7fbff;#eef8ff;#f7fbff" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#eef8f9">
+        <animate attributeName="stop-color" dur="10s" values="#eef8f9;#e6f3fb;#eef8f9" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Soft accent gradient -->
+    <radialGradient id="accentLight" cx="30%" cy="25%" r="40%">
+      <stop offset="0%" stop-color="#0070f3" stop-opacity="0.14">
+        <animate attributeName="stop-opacity" dur="7s" values="0.10;0.18;0.10" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- subtle blur -->
+    <filter id="blurLight" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <g id="dot">
+      <circle cx="0" cy="0" r="2.5" fill="#0070f3" opacity="0.16"/>
+    </g>
+
+    <style><![CDATA[
+      .bg { fill: url(#bgGradLight); }
+      .accent { fill: url(#accentLight); opacity: 0.95; filter: url(#blurLight); }
+      .float { transform-origin: center; animation: floatL 7s ease-in-out infinite; }
+      .float.slow { animation-duration: 10s; }
+      .float.fast { animation-duration: 5s; }
+
+      @keyframes floatL {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+        100% { transform: translateY(0px); }
+      }
+
+      .title { font-family: Inter, Roboto, "Segoe UI", Helvetica, Arial, sans-serif; fill: #04243b; font-weight: 700; font-size: 36px; }
+      .role { font-family: Inter, Roboto, "Segoe UI", Helvetica, Arial, sans-serif; fill: #0b5fa8; font-weight: 600; font-size: 16px; }
+      .tagline { font-family: Inter, Roboto, "Segoe UI", Helvetica, Arial, sans-serif; fill: #2a556f; font-size: 14px; opacity: 0.95; }
+
+      .pill { font-family: Inter, Roboto, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #ffffff; }
+      .pill-bg { rx: 14; ry: 14; }
+
+      .appear { animation: appearL 1s ease-out 0.4s both; }
+      @keyframes appearL { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+      .subline { stroke: rgba(4,36,59,0.06); stroke-width: 1.2; stroke-linecap: round; }
+      .dashline { stroke: rgba(0,112,243,0.14); stroke-width: 1.4; stroke-linecap: round; stroke-dasharray: 7 6; animation: dashL 6.5s linear infinite; }
+      @keyframes dashL { to { stroke-dashoffset: -28; } }
+    ]]></style>
+  </defs>
+
+  <rect class="bg" width="1200" height="300" rx="8"/>
+
+  <rect x="0" y="0" width="1200" height="300" class="accent" opacity="0.9"/>
+
+  <!-- flowing lines -->
+  <g transform="translate(60,36)">
+    <path class="subline" d="M0,180 C180,100 360,50 600,120 C820,180 980,60 1140,120" fill="none"/>
+    <path class="dashline" d="M0,180 C180,100 360,50 600,120 C820,180 980,60 1140,120" fill="none"/>
+  </g>
+
+  <!-- particles -->
+  <g transform="translate(980,42)" class="float slow" opacity="0.95">
+    <use href="#dot" x="0" y="0"/>
+    <use href="#dot" x="26" y="-14"/>
+    <use href="#dot" x="-18" y="10"/>
+  </g>
+
+  <g transform="translate(120,68)" class="float fast" opacity="0.95">
+    <use href="#dot" x="0" y="0"/>
+    <use href="#dot" x="44" y="26"/>
+    <use href="#dot" x="-22" y="18"/>
+  </g>
+
+  <!-- Left content -->
+  <g transform="translate(60,95)" class="appear">
+    <text x="0" y="0" class="title">Suliman Shams</text>
+    <text x="0" y="36" class="role">Frontend Developer</text>
+    <text x="0" y="68" class="tagline">Building modern, responsive, and user-friendly web experiences</text>
+
+    <!-- tech pills -->
+    <g transform="translate(0,98)">
+      <g transform="translate(0,0)">
+        <rect class="pill-bg" x="0" y="0" width="150" height="36" fill="#0070f3" />
+        <text x="18" y="24" class="pill">React</text>
+      </g>
+
+      <g transform="translate(170,0)">
+        <rect class="pill-bg" x="0" y="0" width="170" height="36" fill="#2b7bbf" />
+        <text x="18" y="24" class="pill">TypeScript</text>
+      </g>
+
+      <g transform="translate(350,0)">
+        <rect class="pill-bg" x="0" y="0" width="150" height="36" fill="#e6f3ff" />
+        <text x="18" y="24" style="font-family: Inter, Roboto, 'Segoe UI', Helvetica, Arial, sans-serif; font-size:13px; font-weight:600; fill:#0b4a78;">Next.js</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right mock card -->
+  <g transform="translate(750,40)" opacity="0.98" class="appear">
+    <rect x="0" y="0" width="360" height="200" rx="12" fill="#ffffff" stroke="rgba(4,36,59,0.04)" />
+    <rect x="16" y="18" width="120" height="10" rx="5" fill="#cfe8ff" opacity="0.9"/>
+    <rect x="16" y="36" width="220" height="8" rx="4" fill="#e8f4ff" opacity="0.95"/>
+
+    <g transform="translate(20,68)" fill="#0b4a78" opacity="0.95">
+      <rect x="0" y="0" width="320" height="8" rx="4" fill="#f1f8ff" />
+      <rect x="0" y="18" width="280" height="8" rx="4" fill="#f4fbff" />
+      <rect x="0" y="36" width="240" height="8" rx="4" fill="#fbfeff" />
+    </g>
+
+    <g transform="translate(290,12)" class="float slow" opacity="0.95">
+      <circle cx="0" cy="0" r="6" fill="#0070f3" opacity="0.9"/>
+    </g>
+  </g>
+
+  <desc>Banner: Suliman Shams — Frontend Developer. Tech: React, TypeScript, Next.js.</desc>
+</svg>
