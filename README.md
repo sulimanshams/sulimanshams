@@ -1,11 +1,10 @@
-
-<!-- ==================== HEADER ==================== -->
-
-<div align="center">
+ <div align="center">
 
 # Hi there, I'm Solaiman Shams 👋
 
-### Frontend And Mobile Application Developer | React · Next.js · TypeScript - Dart -Flutter
+### Frontend & Mobile Application Developer
+
+**React · Next.js · TypeScript · JavaScript · Dart · Flutter**
 
 Building responsive, user-friendly web and mobile applications with clean UI and maintainable code.
 
@@ -21,44 +20,45 @@ Building responsive, user-friendly web and mobile applications with clean UI and
   </a>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=3" width="100%" alt=""/>
 
----
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer and Computer Science student passionate about building modern web and mobile applications and intuitive user interfaces.
+I'm a Computer Science student and software developer passionate about building modern web and mobile applications.
 
-- 💻 Focused on React, Next.js, TypeScript, and responsive UI development.
-- 🎨 Interested in clean design, usability, and maintainable frontend architecture.
-- 🔗 Familiar with Git, GitHub, and collaborative development workflows.
-- 📱 Expanding my skills in Flutter and Dart for mobile application development.
-- 🤝 Interested in open-source contributions and collaborating on meaningful projects.
-- 🌱 Continuously learning and improving through hands-on development.
+- 💻 Focused on frontend development with React, Next.js, JavaScript, and TypeScript.
+- 🎨 Interested in clean UI, responsive design, accessibility, and great user experiences.
+- 📱 Expanding my mobile development skills with Flutter and Dart.
+- 🔗 Familiar with Git, GitHub, version control, and collaborative development workflows.
+- 🔌 Experienced in working with REST APIs and integrating frontend applications with backend services.
+- 🌍 Interested in open-source contributions, remote opportunities, and collaborating on meaningful projects.
+- 🌱 Always learning, building, and improving through hands-on experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Bootstrap"/>
 </p>
 
-### Mobile Application Development
+### 📱 Mobile Application Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart and Flutter"/>
 </p>
 
-### Tools & Version Control
+### 🧰 Tools & Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code"/>
 </p>
 
-### Additional Technologies
+### 🔧 Additional Skills
 
 <p>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
@@ -69,20 +69,38 @@ I'm a Software Developer and Computer Science student passionate about building 
 
 ---
 
-## 🚀 Open Source Contributions
+## 🚀 Featured Projects
 
-### DevPulse AI — Dark/Light Theme Enhancement
+### 🧠 DevPulse AI — Open-Source Contribution
 
-Contributed to **DevPulse AI**, an open-source application, by improving its frontend theme experience.
+Contributed to an open-source application by improving the frontend theme experience.
 
-- Implemented a persistent dark/light theme toggle.
-- Used browser local storage to preserve the user's theme preference.
-- Improved light-mode readability and theme-aware interface styling.
+- Implemented persistent dark/light theme switching.
+- Used browser local storage to remember the selected theme.
+- Improved light-mode readability and theme-aware styling.
 - Submitted a pull request that was merged into the original repository.
 
 **Technologies:** React · TypeScript · Tailwind CSS · Git · GitHub
 
-🔗 **[View my DevPulse AI contributions](https://github.com/Rafiaminhaj/devpulse-ai/pulls?q=is%3Apr+author%3Asulimanshams)**
+🔗 [View my DevPulse AI pull requests](https://github.com/Rafiaminhaj/devpulse-ai/pulls?q=is%3Apr+author%3Asulimanshams)
+
+### 💻 More Projects
+
+Explore my GitHub repositories to discover my projects, experiments, and ongoing development work.
+
+<p>
+  <a href="https://github.com/sulimanshams?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Open Source Contributions
+
+<!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
+_Contributions will be added automatically by GitHub Actions._
+<!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
 ---
 
@@ -90,7 +108,7 @@ Contributed to **DevPulse AI**, an open-source application, by improving its fro
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sulimanshams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sulimanshams&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sulimanshams&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
@@ -100,7 +118,9 @@ Contributed to **DevPulse AI**, an open-source application, by improving its fro
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful projects, learning from other developers, and contributing to open source.
 
 <p>
   <a href="https://github.com/sulimanshams">
@@ -119,8 +139,8 @@ Contributed to **DevPulse AI**, an open-source application, by improving its fro
 
 <div align="center">
 
-### 💡 Always learning. Always building.
+### 💡 Always Learning. Always Building.
 
-*Open to meaningful projects, collaboration, and open-source contributions.*
+*Turning ideas into useful digital experiences.*
 
 </div>
