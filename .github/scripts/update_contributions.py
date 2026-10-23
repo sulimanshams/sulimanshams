@@ -1,4 +1,3 @@
-
 import os
 import re
 import requests
@@ -24,7 +23,7 @@ query($login: String!) {
     contributionsCollection {
       pullRequestContributions(
         first: 30,
-        orderBy: {direction: DESC, field: OCCURRED_AT}
+        orderBy: {direction: DESC}
       ) {
         nodes {
           occurredAt
@@ -40,7 +39,7 @@ query($login: String!) {
       }
       issueContributions(
         first: 30,
-        orderBy: {direction: DESC, field: OCCURRED_AT}
+        orderBy: {direction: DESC}
       ) {
         nodes {
           occurredAt
@@ -56,6 +55,7 @@ query($login: String!) {
     }
   }
 }
+
 """
 
 response = session.post(
