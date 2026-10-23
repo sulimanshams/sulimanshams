@@ -99,7 +99,18 @@ Explore my GitHub repositories to discover my projects, experiments, and ongoing
 ## 🌍 Open Source Contributions
 
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
-_Contributions will be added automatically by GitHub Actions._
+- **[fix: use shared Avatar in comparison table](https://github.com/O2sa/DevImpact/pull/264)**
+  - `O2sa/DevImpact` · Pull Request · 2026-10-23 · Open
+- **[fix: use shared Avatar in comparison table](https://github.com/sulimanshams/DevImpact-solve-avatar-issue/pull/1)**
+  - `sulimanshams/DevImpact-solve-avatar-issue` · Pull Request · 2026-10-23 · Merged
+- **[add persistent dark/light theme toggle and improve light mode readability](https://github.com/Rafiaminhaj/devpulse-ai/pull/11)**
+  - `Rafiaminhaj/devpulse-ai` · Pull Request · 2026-10-13 · Merged
+- **[feat(ui): add persistent dark/light theme toggle and improve light mo…](https://github.com/sulimanshams/devpulse-ai/pull/2)**
+  - `sulimanshams/devpulse-ai` · Pull Request · 2026-10-13 · Merged
+- **[feat: add dark and light theme toggle](https://github.com/sulimanshams/devpulse-ai/pull/1)**
+  - `sulimanshams/devpulse-ai` · Pull Request · 2026-10-12 · Merged
+- **[feat: add dark and light theme toggle](https://github.com/Rafiaminhaj/devpulse-ai/pull/6)**
+  - `Rafiaminhaj/devpulse-ai` · Pull Request · 2026-10-12 · Closed
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
 ---
