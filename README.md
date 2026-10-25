@@ -99,6 +99,10 @@ Explore my GitHub repositories to discover my projects, experiments, and ongoing
 ## 🌍 Open Source Contributions
 
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
+- **[Use shared Avatar in comparison table and remove unnecessary imports](https://github.com/O2sa/DevImpact/pull/267)**
+  - `O2sa/DevImpact` · Pull Request · 2026-10-24 · Open
+- **[remove unnecessary imports](https://github.com/sulimanshams/DevImpact-solve-avatar-issue/pull/2)**
+  - `sulimanshams/DevImpact-solve-avatar-issue` · Pull Request · 2026-10-24 · Merged
 - **[fix: use shared Avatar in comparison table](https://github.com/O2sa/DevImpact/pull/264)**
   - `O2sa/DevImpact` · Pull Request · 2026-10-23 · Open
 - **[fix: use shared Avatar in comparison table](https://github.com/sulimanshams/DevImpact-solve-avatar-issue/pull/1)**
