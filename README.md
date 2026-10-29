@@ -104,7 +104,7 @@ Explore my GitHub repositories to discover my projects, experiments, and ongoing
 - **[remove unnecessary imports](https://github.com/sulimanshams/DevImpact-solve-avatar-issue/pull/2)**
   - `sulimanshams/DevImpact-solve-avatar-issue` · Pull Request · 2026-10-24 · Merged
 - **[fix: use shared Avatar in comparison table](https://github.com/O2sa/DevImpact/pull/264)**
-  - `O2sa/DevImpact` · Pull Request · 2026-10-23 · Open
+  - `O2sa/DevImpact` · Pull Request · 2026-10-23 · Closed
 - **[fix: use shared Avatar in comparison table](https://github.com/sulimanshams/DevImpact-solve-avatar-issue/pull/1)**
   - `sulimanshams/DevImpact-solve-avatar-issue` · Pull Request · 2026-10-23 · Merged
 - **[add persistent dark/light theme toggle and improve light mode readability](https://github.com/Rafiaminhaj/devpulse-ai/pull/11)**
