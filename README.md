@@ -1,99 +1,76 @@
-
 <div align="center">
 
 # Hi there, I'm Solaiman Shams 👋
 
 ### Frontend & Mobile Application Developer
 
-**React · Next.js · TypeScript · JavaScript · Dart · Flutter**
+Building responsive web applications and useful digital products.
 
-Building responsive, user-friendly web and mobile applications with clean UI and maintainable code.
-
-<p>
-  <a href="https://github.com/sulimanshams">
-    <img src="https://img.shields.io/badge/GitHub-sulimanshams-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/solaiman-shams-2227b8374">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sulimanshamsn191@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1D4ED8&height=3" width="100%" alt=""/>
+[![GitHub](https://img.shields.io/badge/GitHub-sulimanshams-181717?style=for-the-badge&logo=github)](https://github.com/sulimanshams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Solaiman%20Shams-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solaiman-shams-2227b8374/)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a Computer Science student and software developer passionate about building modern web and mobile applications.
-
-- 💻 Focused on frontend development with React, Next.js, JavaScript, and TypeScript.
-- 🎨 Interested in clean UI, responsive design, accessibility, and great user experiences.
-- 📱 Expanding my mobile development skills with Flutter and Dart.
-- 🔗 Familiar with Git, GitHub, version control, and collaborative development workflows.
-- 🔌 Experienced in working with REST APIs and integrating frontend applications with backend services.
-- 🌍 Interested in open-source contributions, remote opportunities, and collaborating on meaningful projects.
-- 🌱 Always learning, building, and improving through hands-on experience.
+- 🎓 Computer Science student at Herat University.
+- 💻 Frontend Developer passionate about building modern and user-friendly applications.
+- 🚀 Interested in Open Source, UI/UX Design, and Software Engineering.
+- 🌱 Currently improving my skills in React, Next.js, TypeScript, and Flutter.
+- 🤝 Always interested in collaborating on meaningful projects and contributing to open-source communities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+**Frontend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Bootstrap"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 📱 Mobile Application Development
+**Mobile Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart and Flutter"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### 🧰 Tools & Version Control
+**Tools & Technologies**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code"/>
-</p>
-
-### 🔧 Additional Skills
-
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-2563EB?style=for-the-badge" alt="Responsive Design"/>
-  <img src="https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Version Control"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 DevPulse AI — Open-Source Contribution
+### 1. DevPulse AI
 
-Contributed to an open-source application by improving the frontend theme experience.
+An AI-powered code analysis platform designed to help developers identify security issues, improve code quality, and evaluate software projects.
 
-- Implemented persistent dark/light theme switching.
-- Used browser local storage to remember the selected theme.
-- Improved light-mode readability and theme-aware styling.
-- Submitted a pull request that was merged into the original repository.
+**Technologies:** React, TypeScript, Vite, FastAPI.
 
-**Technologies:** React · TypeScript · Tailwind CSS · Git · GitHub
+[View Repository](https://github.com/sulimanshams/devpulse-ai)
 
-🔗 [View my DevPulse AI pull requests](https://github.com/Rafiaminhaj/devpulse-ai/pulls?q=is%3Apr+author%3Asulimanshams)
+### 2. Edulin
 
-### 💻 More Projects
+Worked on an online school management platform, contributing to its mobile application and administration dashboard.
 
-Explore my GitHub repositories to discover my projects, experiments, and ongoing development work.
+**Technologies:** React, Tailwind CSS, Flutter.
 
-<p>
-  <a href="https://github.com/sulimanshams?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
-</p>
+### 3. WasteSwift
+
+A dashboard application featuring reusable components, responsive layouts, data visualization, and API integration.
+
+**Technologies:** React, Next.js, Material UI.
 
 ---
 
@@ -109,11 +86,11 @@ _Contributions will be added automatically by GitHub Actions._
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sulimanshams&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sulimanshams&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" width="49%"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sulimanshams&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=sulimanshams&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="49%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulimanshams&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sulimanshams&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" width="49%"/>
 
 </div>
 
@@ -121,27 +98,15 @@ _Contributions will be added automatically by GitHub Actions._
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on meaningful projects, learning from other developers, and contributing to open source.
+I'm always open to discussing new projects, collaboration opportunities, and open-source contributions.
 
-<p>
-  <a href="https://github.com/sulimanshams">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/solaiman-shams-2227b8374">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/sulimanshams191">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:sulimanshamsn191@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- **GitHub:** [@sulimanshams](https://github.com/sulimanshams)
+- **LinkedIn:** [Solaiman Shams](https://www.linkedin.com/in/solaiman-shams-2227b8374/)
+
+---
 
 <div align="center">
 
-### 💡 Always Learning. Always Building.
-
-*Turning ideas into useful digital experiences.*
+*Building, learning, and contributing — one project at a time.* 🚀
 
 </div>
